@@ -13,6 +13,18 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+simple{
+    padding: 0;
+    background: none;
+    color: #fff;
+    border: 0;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    margin-top: 0;
+    border-radius: 0;
+}
 a:hover{
 	text-decoration:none;
 }
